@@ -3,7 +3,7 @@ const dbd = require("dbd.js")
  
 console.clear()
 const bot = new dbd.Bot({
-token: "NzgyMDIwODQ2MzAxNzQxMDU3.X8GHqw.RNjEoClIrNZuyCiyqZpu3eywy5Q", 
+token: "TOKEN", 
 prefix: "*",
     mobile: true,
     fetchInvites: true,
